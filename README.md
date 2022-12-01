@@ -11,7 +11,7 @@
 
 #### Here are some photos from the app:
 
-![84c04b3e-7bd7-49ed-a375-2c612fdbc218](https://user-images.githubusercontent.com/73114058/205084458-688b1a52-d35b-48bb-83ca-3e7ae5d067d9.jpeg)
+![84c04b3e-7bd7-49ed-a375-2c612fdbc218](https://user-images.githubusercontent.com/73114058/205084458-688b1a52-d35b-48bb-83ca-3e7ae5d067d9.jpeg = 400x600)
  
 ![2](https://user-images.githubusercontent.com/73114058/205084514-8ff50a19-4e9b-4479-944b-03d04bbdf4bf.jpeg)
 
