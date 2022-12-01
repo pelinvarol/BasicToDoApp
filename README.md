@@ -1,16 +1,14 @@
-# to_do_app
+# Basic To Do App | Flutter
 
-A new Flutter project.
 
-## Getting Started
+## Overview of The Project
 
-This project is a starting point for a Flutter application.
+ - You can add a new task,
+ - You can mark the tasks you finished as completed by clicking the checkbox,
+ - You can cancel the task when you're writing and it will not be added to the task list,
+ - You can delete a task by swiping left and pressing the trash icon,
+ - After closing and exiting the application, you can access your existing tasks when you run the application again.
 
-A few resources to get you started if this is your first Flutter project:
+#### Here are some photos from the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
